@@ -1,7 +1,7 @@
 # Kun.uz site scrapping and the latest news
 ```
-Ishlatilishi:
-requirements.txt faylidagi librarylar yuklanadi va run qilinadi!
+To be used:
+libraries in the requirements.txt file are loaded and run!
 ```
 
-*Avazbek Avliyoqulov*
+**Avazbek Avliyoqulov**
